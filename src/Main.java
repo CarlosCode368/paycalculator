@@ -22,7 +22,7 @@ public class Main {
     }
     public static void main(String[] args){
 
-        System.out.println("ENTER HOURsS:");
+        System.out.println("ENTER HOURS:");
         double hours = scanner.nextDouble();
         System.out.println("ENTER RATE");
         double rate = scanner.nextDouble();
